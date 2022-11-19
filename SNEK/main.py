@@ -21,10 +21,10 @@ def menu():
     info = [
             "INFO:",
             'Controls are:',
-            '   WASD for moving',
+            '   Arrow Keys for moving',
             '   SPACEBAR for SHOOTING',
             ' ',
-            'Levels:Every 10 levels increases difficulty with pink death boxes',
+            'Levels:Every 10 levels increases difficulty with PINK death boxes',
             '   BLUE== BUFF(godmode)',
             '  WHITE== DEBUFF(slow+(-3)score)',
             '  PARTY== FREE POINTS!!! ',
